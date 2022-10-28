@@ -1,0 +1,30 @@
+.number {
+    background-color: rgb(239, 252, 239);
+    border: 1px solid rgb(204, 241, 204);
+    padding: 15px;
+}
+.old-price {
+    text-decoration: line-through;
+    color: rgb(182, 182, 182);
+    margin-right: 15px;
+}
+.new-price {
+    color: red;
+}
+.number p {
+    font-size: 25px;
+    font-weight: bold;
+}
+.row i {
+    color: rgb(13, 180, 13);
+}
+.row span {
+    font-weight: 500;
+    margin-left: 10px;
+}
+.row:not(:last-child) {
+    border-bottom: 1px solid rgb(204, 241, 204);
+}
+.row {
+    padding: 15px 0px;
+}

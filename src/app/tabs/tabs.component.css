@@ -1,0 +1,24 @@
+.box h3 {
+    font-size: 22px;
+    font-weight: bold;
+}
+.box .text {
+    color: #626262;
+    font-size: 14px;
+}
+.links {
+    padding: 15px;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+}
+.links .info {
+    cursor: pointer;
+}
+.links .info:hover {
+    color: red;
+}
+.pictures {
+    padding-left: 30px;
+    padding-top: 10px;
+}

@@ -1,0 +1,19 @@
+p {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+p span{
+    color: rgb(180, 103, 253);
+}
+.bi-star-fill,
+.bi-star {
+    color: rgb(255, 174, 0);
+} 
+.row {
+    color: #fff;
+    padding-left: 30px;
+    padding-top: 10px;
+}

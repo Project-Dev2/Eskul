@@ -1,0 +1,33 @@
+.box {
+    padding: 20px;
+    background-color: white;
+    border: 1px solid rgb(221, 220, 220);
+    border-radius: 3px;
+    position: relative;
+}
+.box img {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid rgb(221, 220, 220);
+}
+.box h3 {
+    margin: 0 0 10px;
+}
+.box .title {
+    color: #777;
+    margin-bottom: 10px;
+    display: block;
+}
+.box p {
+    line-height: 1.5;
+    color: #777;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.btn-danger {
+    width: 100%;
+}

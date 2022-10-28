@@ -1,0 +1,22 @@
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10%;
+    display: none;
+    z-index: 1;
+}
+#btn-back-to-top:hover {
+    background-color: rgb(22, 22, 22);
+}
+.cardOne {
+    max-width: 80%;
+}
+@media (max-width: 992px) {
+    .cardOne {
+        margin-left: auto;
+        margin-right: auto;
+    }  
+}
